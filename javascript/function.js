@@ -31,10 +31,10 @@ log("Hello");
 
 // TS :파라미터의 타입과 리턴의 타입을 명시
 //https://www.typescriptlang.org/play
-function log(msg: string) {
-  console.log(msg);
-  return 0;
-}
+// function log(msg: string): number {
+//   console.log(msg);
+//   return 0;
+// }
 
 // 2. parameters
 // primitive parameters: passed by value (값으로 전달) :메모리에 값이 저장되어 있음
