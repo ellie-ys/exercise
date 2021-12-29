@@ -49,3 +49,7 @@ console.log(triangle instanceof Rectangle); // > false
 console.log(triangle instanceof Triangle); // > true
 console.log(triangle instanceof Shape); // > true
 console.log(triangle instanceof Object); // > true
+
+
+
+// refer https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
